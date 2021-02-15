@@ -3,7 +3,7 @@
 
 int main()
 {
-printf("Workshop");
+printf("Welcome to Workshop on Git and GitHub");
 getch();
 return 0;
 }
